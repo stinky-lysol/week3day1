@@ -1,0 +1,13 @@
+body {
+  border: 5px solid black;
+  font-family: "tomorrow", serif;
+  font-size: larger;
+  margin: 250px 550px;
+}
+h1 {
+  text-align: center;
+}
+div {
+  text-align: center;
+  margin: 10px;
+}
